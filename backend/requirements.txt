@@ -1,0 +1,6 @@
+flask
+flask_sqlalchemy
+pymysql
+flask_jwt_extended
+flask_cors
+flask_restful
